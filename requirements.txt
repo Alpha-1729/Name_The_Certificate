@@ -1,0 +1,5 @@
+opencv-contrib-python
+pillow
+numpy
+tqdm
+xlrd
