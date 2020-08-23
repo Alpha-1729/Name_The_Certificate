@@ -71,13 +71,13 @@ cd Name_The_Certificate
 ### Adding the font.
 
 <ul>
-<li>Download the required <b>true type font</b> from the <a href="https://fonts.google.com/">Google Font.</a>
+<li>Download the required <b>true type font</b> from the <a target="_blank" href="https://fonts.google.com/">Google Font.</a>
 <li>Add the font file into the <b>font</b> folder.
 <li> Sample font is available in the <b>font</b> folder.
 </ul>
 <hr>
 
-## :beginner:Executing the script.
+# :beginner:Executing the script.
 
 ### Linux
 
@@ -93,25 +93,29 @@ python main.py
 
 <hr>
 
-## :beginner:Procedure:
+# :beginner:Procedure:
 
-### Step 1
+## Step 1
 
 ### Selecting the excel, image, font.
 
 <ul>
 <li>After executing the script, a dialog box will popup to select excel file, image and font.
 <li>Select the excel file containing the names.
+<a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/src/screen_01.png">Click here</a>
 <li>Select the image file of the certificate.
+<a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/src/screen_02.png">Click here</a>
 <li>Select the font to be used in the certificate.
+<a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/src/screen_03.png">Click here</a>
 </ul>
 
-### Step 2
+## Step 2
 
-#### Fill properties in the terminal.
+### Fill properties in the terminal.
 
 <ul>
 <li> A terminal will be opened asking for some values.
+<a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/src/screen_04.png">Click here</a>
 <li>Add the column number containing names in the excel file.
 <li>Add the starting index of the row in the excel file.
 <li>Add the ending index of the row in the excel file.
@@ -119,33 +123,45 @@ python main.py
 <li>Enter the RGB color code (separate with space) for the name in certificate.
 </ul>
 
-### Step 3
+## Step 3
 
-#### Select the region for name.
+### Select the region for name.
 
 <ul>
 <li>A screen containing the image will pop out. 
+<a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/src/screen_05.png">Click here</a>
 <li>Select the rectangular area where you want to add the name.
+<a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/src/screen_06.png">Click here</a>
 <li> After selecting the area, press <b>Enter</b> key.
 </ul>
 
-### Step 4
+## Step 4
 
-#### Adjusting the font size in the certificate.
+### Adjusting the font size in the certificate.
 
 <ul>
-<li>The longest name in the excel file will the shown in the certificate.
+<li>The longest name in the excel file will the shown in the certificate.<a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/src/screen_07.png">Click here</a>
 <li>Press <b>+ key</b> to increase the font-size of the name in the certificate.
 <li>Press  <b>- key</b>  to decrease the font-size of the name in the certificate.
 <li>After fixing the font, press <b>Enter</b> key.
 </ul>
 
-### Step 5
+## Step 5
 
-#### Selecting the output folder.
+### Selecting the output folder.
 
 <ul>
 <li>New dialog box will appear to select the output folder.
+<a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/src/screen_08.png">Click here</a>
 <li>Go inside the  folder and select the folder.
+<a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/src/screen_09.png">Click here</a>
 <li>After this, all certificates will be created in the <b>output</b> folder.
-</ul>
+<a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/src/screen_10.png">Click here</a>
+<br></ul>
+
+<hr>
+
+# :beginner: Note
+
+- If any error happens, kindly report the issue.
+- Suggestions are welcome.
