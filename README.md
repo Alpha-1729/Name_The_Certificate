@@ -161,6 +161,13 @@ python main.py
 
 <hr>
 
+# :beginner: Samples
+
+* <a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/output/Breanna Plouffe .jpg">Sample 1</a>
+* <a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/output/Gillian Mcglothlen .jpg">Sample 2</a>
+* <a target="_blank" href="https://raw.githubusercontent.com/Alpha-1729/Name_The_Certificate/master/output/Stephen Tizen.jpg">Sample 3</a>
+<hr>
+
 # :beginner: Note
 
 - If any error happens, kindly report the issue.
